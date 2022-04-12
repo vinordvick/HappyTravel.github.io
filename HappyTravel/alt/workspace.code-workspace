@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\..\\Myproject\\src"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "alt"
+    }
+}
